@@ -1,3 +1,9 @@
+
+************************************************************************************************
+			https://staffwww.fullcoll.edu/sedwards/nano/nanokeyboardcommands.html
+************************************************************************************************
+
+
 codeally@471137aa4a7e:~/project$ echo hello terminal
 hello terminal
 codeally@471137aa4a7e:~/project$ echo hello nano
