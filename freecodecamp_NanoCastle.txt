@@ -1,0 +1,220 @@
+codeally@471137aa4a7e:~/project$ echo hello terminal
+hello terminal
+codeally@471137aa4a7e:~/project$ echo hello nano
+hello nano
+codeally@471137aa4a7e:~/project$ touch castle.sh
+codeally@471137aa4a7e:~/project$ ls
+castle.sh  learn-nano-by-building-a-castle
+codeally@471137aa4a7e:~/project$ nano castle.sh
+codeally@471137aa4a7e:~/project$
+	v
+
+
+
+  GNU nano 4.8                                                                                                                                                                                                                castle.sh                                                                                                                                                                                                                           
+echo hello nano
+	v
+
+
+
+codeally@471137aa4a7e:~/project$ bash castle.sh
+hello nano
+codeally@471137aa4a7e:~/project$ nano castle.sh
+codeally@471137aa4a7e:~/project$
+	v
+
+
+
+  GNU nano 4.8                                                                                                                                                                                                                castle.sh                                                                                                                                                                                                                 Modified  
+	v
+
+
+
+  GNU nano 4.8                                                                                                                                                                                                                castle.sh                                                                                                                                                                                                                           
+echo "
+____________________
+"
+	v
+
+
+
+codeally@471137aa4a7e:~/project$ bash castle.sh
+
+____________________
+
+codeally@471137aa4a7e:~/project$ nano castle.sh
+	v
+
+
+
+  GNU nano 4.8                                                                                                                                                                                                                castle.sh                                                                                                                                                                                                                           
+echo "
+|                    |
+|____________________|
+"
+	v
+
+
+
+codeally@471137aa4a7e:~/project$ bash castle.sh
+
+|                    |
+|____________________|
+
+codeally@471137aa4a7e:~/project$ nano castle.sh
+	v
+
+
+
+  GNU nano 4.8                                                                                                                                                                                                                castle.sh                                                                                                                                                                                                                           
+echo "
+|  |______________|  |
+|                    |
+|                    |
+|                    |
+|                    |
+|____________________|
+"
+	v
+
+
+
+codeally@471137aa4a7e:~/project$ bash castle.sh
+
+|  |______________|  |
+|                    |
+|                    |
+|                    |
+|                    |
+|____________________|
+
+codeally@471137aa4a7e:~/project$ nano castle.sh
+codeally@471137aa4a7e:~/project$ 
+	v
+
+
+
+  GNU nano 4.8                                                                                                                                                                                                                castle.sh                                                                                                                                                                                                                           
+echo "
+ /\                /\
+/  \              /  \
+|  |______________|  |
+|                    |
+|                    |
+|                    |
+|                    |
+|____________________|
+"
+	v
+
+
+
+codeally@471137aa4a7e:~/project$ bash castle.sh
+
+ /\                //  \              /  |  |______________|  |
+|                    |
+|                    |
+|                    |
+|                    |
+|____________________|
+
+codeally@471137aa4a7e:~/project$ nano castle.sh
+	v
+
+
+
+  GNU nano 4.8                                                                                                                                                                                                                castle.sh                                                                                                                                                                                                                           
+echo "
+ /\                /\   
+/  \              /  \   
+|  |______________|  |
+|                    |
+|                    |
+|                    |
+|                    |
+|____________________|
+"
+	v
+
+
+
+codeally@471137aa4a7e:~/project$ bash castle.sh
+
+ /\                /\ 
+/  \              /  \ 
+|  |______________|  |
+|                    |
+|                    |
+|                    |
+|                    |
+|____________________|
+
+codeally@471137aa4a7e:~/project$ nano castle.sh
+	v
+
+
+
+  GNU nano 4.8                                                                                                                                                                                                                castle.sh                                                                                                                                                                                                                           
+echo "
+ /\                /\ 
+/  \              /  \ 
+|  |______________|  |
+|                    |
+|   []    []    []   |                  
+|                    |
+|         __         |
+|________|  |________|
+"
+	v
+
+
+
+codeally@471137aa4a7e:~/project$ bash castle.sh
+
+ /\                /\ 
+/  \              /  \ 
+|  |______________|  |
+|                    |
+|   []    []    []   |
+|                    |
+|         __         |
+|________|  |________|
+
+codeally@471137aa4a7e:~/project$ nano caslte.sh
+	v
+
+
+
+  GNU nano 4.8                                                                                                                                                                                                                castle.sh                                                                                                                                                                                                                           
+echo "
+Welcome to my castle
+"
+echo "
+ /\                /\ 
+/  \              /  \ 
+|  |______________|  |
+|                    |
+|   []    []    []   |
+|                    |
+|         __         |
+|________|  |________|
+"
+	v
+
+
+
+codeally@471137aa4a7e:~/project$ bash castle.sh
+
+Welcome to my castle
+
+
+ /\                /\ 
+/  \              /  \ 
+|  |______________|  |
+|                    |
+|   []    []    []   |
+|                    |
+|         __         |
+|________|  |________|
+
+codeally@471137aa4a7e:~/project$ 
